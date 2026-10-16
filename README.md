@@ -17,10 +17,6 @@ Documentación, insumos y pruebas funcionales del asistente virtual SUAIA del De
 - Ley 1909 de 2018 (Estatuto de la Oposición)
 - Portal y ruta oficial del PND 2026-2030 del DNP
 
-## Estado
-
-Documentos de trabajo en revisión.
-
 ## Autor
 
 Daniel Felipe Rambaut Lemus ([@drambaut](https://github.com/drambaut))
